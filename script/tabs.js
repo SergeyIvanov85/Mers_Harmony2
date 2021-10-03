@@ -18,3 +18,4 @@ for (let btn of tabsHandlerElems) {
 
   });
 }
+console.log('test 2')
