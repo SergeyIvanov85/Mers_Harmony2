@@ -1,3 +1,1 @@
-# Git and GitHub Course
-
-Crashe course
+***https://sergeyivanov85.github.io/Mers_Harmony2/***
